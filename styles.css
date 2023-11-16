@@ -1,4 +1,9 @@
 header{
-background-color: rgb(0, 255, 255);
+background-color: #51025a;
 color:white ;
+display: flex;
+justify-content : space-aroud;
+  align-items: center;
+  paddiing: 24px 0;
+  
 }
